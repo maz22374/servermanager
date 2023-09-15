@@ -1,0 +1,8 @@
+**/.vscode
+**/.idea
+**/node_modules
+**/.angular
+**/data
+**/static
+**/target
+package-lock.json
